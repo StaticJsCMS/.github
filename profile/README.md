@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="static-cms-logo.png" width="500px" />
+  <img src="https://github.com/StaticJsCMS/.github/blob/main/profile/static-cms-logo.png" width="500px" />
 
 [![npm latest package](https://img.shields.io/npm/v/@staticcms/core/latest.svg)](https://www.npmjs.com/package/@staticcms/core)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/StaticJsCMS/static-cms/blob/main/CONTRIBUTING.md)
