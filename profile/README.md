@@ -5,8 +5,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/StaticJsCMS/static-cms/blob/main/CONTRIBUTING.md)
 <div align="center">
 
-[Docs](https://staticjscms.netlify.app/)
-| [Demo](https://demo-staticjscms.netlify.app/)
+[Docs](https://staticcms.org/)
+| [Demo](https://demo.staticcms.org/)
 | [Issues](https://github.com/StaticJsCMS/static-cms/issues)
 | [Discord](https://discord.gg/ZWJM9pBMjj)
 
