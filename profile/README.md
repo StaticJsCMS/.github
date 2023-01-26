@@ -22,12 +22,13 @@ A CMS for static site generators. Give users a simple way to edit and add conten
 
 # Templates
 
-* [static-cms-next-netlify-template](https://github.com/StaticJsCMS/static-cms-next-netlify-template)
-* [static-cms-gatsby-netlify-template](https://github.com/StaticJsCMS/static-cms-gatsby-netlify-template)
-* [static-cms-hugo-netlify-template](https://github.com/StaticJsCMS/static-cms-hugo-netlify-template)
-* [static-cms-nuxt-netlify-template](https://github.com/StaticJsCMS/static-cms-nuxt-netlify-template)
-* [static-cms-preact-netlify-template](https://github.com/StaticJsCMS/static-cms-preact-netlify-template)
-* [static-cms-eleventy-netlify-template](https://github.com/StaticJsCMS/static-cms-eleventy-netlify-template)
+* [Next](https://nextjs.org/) - [static-cms-next-netlify-template](https://github.com/StaticJsCMS/static-cms-next-netlify-template)
+* [Gastby](https://www.gatsbyjs.com/) - [static-cms-gatsby-netlify-template](https://github.com/StaticJsCMS/static-cms-gatsby-netlify-template)
+  * Static CMS Plugin for Gastby: [gatsby-plugin-static-cms](https://github.com/StaticJsCMS/gatsby-plugin-static-cms)
+* [Hugo](https://gohugo.io/) - [static-cms-hugo-netlify-template](https://github.com/StaticJsCMS/static-cms-hugo-netlify-template)
+* [Nuxt](https://nuxtjs.org/) - [static-cms-nuxt-netlify-template](https://github.com/StaticJsCMS/static-cms-nuxt-netlify-template)
+* [Preact](https://preactjs.com/) - [static-cms-preact-netlify-template](https://github.com/StaticJsCMS/static-cms-preact-netlify-template)
+* [Eleventy](https://www.11ty.dev/) - [static-cms-eleventy-netlify-template](https://github.com/StaticJsCMS/static-cms-eleventy-netlify-template)
 
 # Contributing
 
