@@ -20,7 +20,7 @@ A CMS for static site generators. Give users a simple way to edit and add conten
 * [static-cms](https://github.com/StaticJsCMS/static-cms)
 * [static-cms-proxy-server](https://github.com/StaticJsCMS/static-cms-proxy-server)
 
-# Templates
+# Platform Templates
 
 * [Next](https://nextjs.org/) - [static-cms-next-netlify-template](https://github.com/StaticJsCMS/static-cms-next-netlify-template)
 * [Gastby](https://www.gatsbyjs.com/) - [static-cms-gatsby-netlify-template](https://github.com/StaticJsCMS/static-cms-gatsby-netlify-template) (Static CMS Plugin for Gastby: [gatsby-plugin-static-cms](https://github.com/StaticJsCMS/gatsby-plugin-static-cms))
@@ -28,6 +28,9 @@ A CMS for static site generators. Give users a simple way to edit and add conten
 * [Nuxt](https://nuxtjs.org/) - [static-cms-nuxt-netlify-template](https://github.com/StaticJsCMS/static-cms-nuxt-netlify-template)
 * [Preact](https://preactjs.com/) - [static-cms-preact-netlify-template](https://github.com/StaticJsCMS/static-cms-preact-netlify-template)
 * [Eleventy](https://www.11ty.dev/) - [static-cms-eleventy-netlify-template](https://github.com/StaticJsCMS/static-cms-eleventy-netlify-template)
+
+# Workflow Templates
+* Editorial Workflow (using [Next](https://nextjs.org/)) - [static-cms-next-netlify-editoral-template](https://github.com/StaticJsCMS/static-cms-next-netlify-editoral-template)
 
 # Contributing
 
