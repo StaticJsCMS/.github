@@ -8,6 +8,7 @@
 [Docs](https://staticcms.org/)
 | [Demo](https://demo.staticcms.org/)
 | [Issues](https://github.com/StaticJsCMS/static-cms/issues)
+| [Discord](https://discord.gg/ZWJM9pBMjj)
 
 </div>
 </div>
