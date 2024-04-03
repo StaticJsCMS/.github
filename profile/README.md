@@ -50,3 +50,7 @@ New contributors are always welcome! Check out [CONTRIBUTING.md](https://github.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 Every release is documented on the Github [Releases](https://github.com/StaticJsCMS/static-cms/releases) page.
+
+## Discord
+
+Join the Static CMS community on [Discord](https://discord.com/invite/ZWJM9pBMjj).
